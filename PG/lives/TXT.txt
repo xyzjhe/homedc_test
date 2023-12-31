@@ -87,7 +87,7 @@ ViuTV6,http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F42176306421763
 中天新闻,http://194.87.101.118:9501/live.m3u8?c=1
 中天亚洲,http://194.87.101.118:9501/live.m3u8?c=3
 台视新闻,http://194.87.101.118:9501/live.m3u8?c=4
-TVBS新闻,http://194.87.101.118:9501/live.m3u8?c=5
+TVBS新闻台,http://194.87.101.118:9501/live.m3u8?c=5
 中视新闻,http://194.87.101.118:9501/live.m3u8?c=6
 公视新闻,http://194.87.101.118:9501/live.m3u8?c=8
 民视新闻,http://194.87.101.118:9501/live.m3u8?c=11
@@ -880,7 +880,7 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 华视综艺,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 华视戏剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视戏剧,https://ytm2.yuanhsing.cf/ctsprog.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 八大电视,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -903,7 +903,7 @@ MOMO1台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
 MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 三立新闻,https://yt-stream.livednow.com/stream/FoBfXvlOR6I/master.m3u8
 三立新闻+,https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
-中天新聞2,https://yt-stream.livednow.com/stream/WPfPjbOLNfE/master.m3u8
+中天新闻,https://yt-stream.livednow.com/stream/WPfPjbOLNfE/master.m3u8
 中天亚洲台,https://yt-stream.livednow.com/stream/s2waUruqze4/master.m3u8
 台视新闻台,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
 公视新闻台,https://yt-stream.livednow.com/stream/quwqlazU-c8/master.m3u8

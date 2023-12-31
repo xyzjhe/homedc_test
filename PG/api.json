@@ -109,7 +109,40 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1"
+            "ext": "./json/wogg.json"
+        },
+        {
+            "key": "影视车",
+            "name": "影视车|网盘",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./json/wogg.json"
+        },
+        {
+            "key": "Wobg",
+            "name": "玩偶表哥|网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "./json/wogg.json"
+        },
+        {
+            "key": "Pan99",
+            "name": "盘99|网盘",
+            "type": 3,
+            "api": "csp_Pan99",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
         },
         {
             "key": "Hdhive",
@@ -154,17 +187,6 @@
             "filterable": 1,
             "timeout": 30,
             "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$null$$$1"
-        },
-        {
-            "key": "Wobg",
-            "name": "玩偶表哥|网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"
         },
         {
             "key": "Libvio",
@@ -943,6 +965,18 @@
             "ext": "./json/tokenm.json"
         },
         {
+            "key": "PikPakShare",
+            "name": "PikPak分享",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./txt/pikpakclass.txt"
+        },
+        {
             "key": "應用商店",
             "name": "應用商店",
             "type": 3,
@@ -1222,6 +1256,24 @@
             ],
             "regex": [
                 "video/tos/cn"
+            ]
+        },
+        {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
             ]
         },
         {
