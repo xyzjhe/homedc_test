@@ -974,7 +974,7 @@
             "changeable": 0,
             "filterable": 0,
             "timeout": 60,
-            "ext": "./txt/pikpakclass.txt"
+            "ext": "http://qiqiv.cn/tvbox/pg/lib/tokenm.json$$$http://qiqiv.cn/tvbox/pg/lib/pikpakclass.json$$$http://qiqiv.cn/tvbox/pg/lib/pikpakclass.json.txt.gz"
         },
         {
             "key": "應用商店",
