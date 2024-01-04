@@ -22,16 +22,6 @@
             "filterable": 0
         },
         {
-            "key": "csp_Nmys",
-            "name": "农民",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./json/nmys.json"
-        },
-        {
             "key": "Czsapp",
             "name": "厂长",
             "type": 3,
@@ -63,6 +53,16 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
+            "key": "九六",
+            "name": "1369",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "Xinsj",
             "name": "新视觉",
             "type": 3,
@@ -92,26 +92,6 @@
             "filterable": 1
         },
         {
-            "key": "九六",
-            "name": "1369",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "忍者",
-            "name": "忍者",
-            "type": 3,
-            "api": "csp_MYYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://rzys.xyz"
-        },
-        {
             "key": "毛驴",
             "name": "毛驴",
             "type": 3,
@@ -120,6 +100,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/nmys.json"
         },
         {
             "key": "77",
